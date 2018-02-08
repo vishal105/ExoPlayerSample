@@ -24,6 +24,11 @@ android {
 }
 
 dependencies {
+    compile project(':core')
+    compile project(':dash')
+    compile project(':hls')
+    compile project(':smoothstreaming')
+    compile project(':ui')
     /*compile project(modulePrefix + 'library-core')
     compile project(modulePrefix + 'library-dash')
     compile project(modulePrefix + 'library-hls')
