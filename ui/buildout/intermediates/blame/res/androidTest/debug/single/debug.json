@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_pause.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_pause.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_shuffle.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_shuffle.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_previous.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_previous.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_previous.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_rewind.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_previous.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_previous.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_fastforward.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_repeat_all.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_repeat_all.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_rewind.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_rewind.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_pause.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_fastforward.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_fastforward.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_rewind.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_rewind.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_pause.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_play.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_pause.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_fullscreen_exit.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_play.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/layout_exo_player_control_view.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/layout/exo_player_control_view.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/layout_exo_playback_control_view.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_next.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_play.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_play.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_play.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_previous.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_fullscreen_enter.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_rewind.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_previous.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_edit_mode_logo.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_play.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_play.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_pause.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_pause.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_repeat_off.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_repeat_off.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_exo_controls_next.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-ldpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_next.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_next.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_next.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_next.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/layout_exo_simple_player_view.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_next.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_exo_controls_rewind.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-hdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-mdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xxhdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/layout_exo_player_view.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/layout/exo_player_view.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_exo_controls_repeat_one.xml.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-anydpi-v21/exo_controls_repeat_one.xml"
+    },
+    {
+        "merged": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_repeat_all.png"
+    }
+]

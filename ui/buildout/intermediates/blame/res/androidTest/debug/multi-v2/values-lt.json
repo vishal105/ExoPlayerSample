@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-lt/values-lt.xml",
+            "map": [
+                {
+                    "source": "/home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/ui/buildout/intermediates/bundles/debug/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,135,219,293,366,433,516,596,678,758,832,903",
+                        "endColumns": "79,83,73,72,66,82,79,81,79,73,70,68",
+                        "endOffsets": "130,214,288,361,428,511,591,673,753,827,898,967"
+                    }
+                }
+            ]
+        }
+    ]
+}

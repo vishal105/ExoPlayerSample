@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml:17:1-57
+INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml:17:1-57
+INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml:17:1-57
+	package
+		ADDED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml:17:11-55
+		INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
+		INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
+INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
+INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
+INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
+		ADDED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
+		INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
+		ADDED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
+		INJECTED from /home/vishal/Vishal_Backups/AndroidStudioProjects/Demo/ExoplayerDemo/ExoPlayer-dev-v2/library/core/src/main/AndroidManifest.xml
