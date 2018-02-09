@@ -1,1 +1,1 @@
-include ':app', ':core', ':dash', ':ui', ':smoothstreaming', ':hls', ':all'
+include ':app', ':core', ':dash', ':ui', ':smoothstreaming', ':hls'

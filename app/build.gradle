@@ -44,7 +44,7 @@ dependencies {
     //    compile 'com.google.android.exoplayer:exoplayer:2.6.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
-    compile project(':all')
+//    compile project(':all')
     compile project(':core')
     compile project(':dash')
     compile project(':hls')
